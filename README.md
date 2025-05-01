@@ -1,7 +1,5 @@
 # Setup guide
 
-> Currently, this is not working.
-
 ## Initial Project Setup
 
 ```sh
