@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "b",
+  "main": "index.js",
+  "scripts": {
+    "build": "yarn tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
